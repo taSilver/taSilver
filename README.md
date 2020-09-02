@@ -11,7 +11,7 @@
 
 
 ### Spotify Playing 🎧
-[![Spotify](https://notavorem.tasilver.vercel.app/api/spotify)](https://open.spotify.com/user/1271419936)
+[![Spotify](https://novatorem.tasilver.vercel.app/api/spotify)](https://open.spotify.com/user/1271419936)
 
 
 ### Connect with me:
