@@ -26,7 +26,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="taSilver's Github Stats" src="https://github-readme-stats.taSilver.vercel.app/api?username=taSilver&show_icons=true&hide_border=true&count_private=true" />
+  <img align="left" alt="taSilver's Github Stats" src="https://github-readme-stats.vercel.app/api?username=taSilver&show_icons=true&hide_border=true&count_private=true" />
 
 </details>
 
