@@ -11,7 +11,7 @@
 
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem.tasilver.vercel.app/api/spotify-playing" alt="Tim Spotify Playing" width="350" />](https://open.spotify.com/user/1271419936)
+[![Spotify][https://notavorem.tasilver.vercel.app/api/spotify]](https://open.spotify.com/user/1271419936)
 
 
 ### Connect with me:
