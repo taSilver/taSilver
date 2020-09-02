@@ -26,7 +26,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="taSilver's Github Stats" src="https://github-readme-stats.vercel.app/api?username=taSilver&show_icons=true&hide_border=true&count_private=true" />
+  [![taSilver's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taSilver&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
