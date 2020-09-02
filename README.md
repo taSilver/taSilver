@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Bachelor of Computer Science Advanced (Honors)][uni] at Monash University!
 - 🌱 I’m currently learning Python, Java, testing frameworks, Haskell (a little bit of everything)...
-- - 👯 I’m currently organising weekly workshops for [MonSec][monsec]
+- 👯 I’m currently organising weekly workshops for [MonSec][monsec]
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to go for runs and play DnD
 
@@ -16,7 +16,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Tim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Tim | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][email]
+
+
+[uni]: https://www.monash.edu/study/courses/find-a-course/2021/computer-science-advanced-c3001
+[monsec]: https://monsec.io
+[linkedin]: https://www.linkedin.com/in/tim-silvester/
+[monsecYouTube]: https://www.youtube.com/channel/UCYeUdj1uFiycji84i04jayw
