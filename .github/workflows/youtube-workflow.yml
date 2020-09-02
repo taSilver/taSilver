@@ -3,6 +3,7 @@ on:
   schedule:
     # Runs every week
     - cron: '168 * * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme-with-youtube:
