@@ -58,8 +58,8 @@
 
 <details>
     <summary>:zap: GitHub Activity </summary>
-    <!-- GITHUB:START -->
-    <!-- GITHUB:END -->
+    <!-- START_SECTION:activity -->
+    <!-- END_SECTION:activity -->
 </details>
 
 
