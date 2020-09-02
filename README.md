@@ -1,4 +1,4 @@
-### Hi there, I'm Tim - aka [taSilver] 👋
+### Hi there, I'm Tim - aka taSilver 👋
 
 
 ## I'm a Student, Tutor, and Aspiring Developer!
