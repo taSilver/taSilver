@@ -17,7 +17,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Tim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Tim | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][email]
+[<img align="left" alt="Tim | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/outlook.svg" />][email]
 
 
 <br>
@@ -57,9 +57,9 @@
 ---
 
 <details>
-    <summary>:zap: StackOverflow Activity </summary>
-    <!-- STACKOVERFLOW:START -->
-    <!-- STACKOVERFLOW:END -->
+    <summary>:zap: GitHub Activity </summary>
+    <!-- GITHUB:START -->
+    <!-- GITHUB:END -->
 </details>
 
 
@@ -71,6 +71,7 @@
 </details>
 
 [uni]: https://www.monash.edu/study/courses/find-a-course/2021/computer-science-advanced-c3001
+[email]: mailto:tim.silvester45@outlook.com
 [monsec]: https://monsec.io
 [linkedin]: https://www.linkedin.com/in/tim-silvester/
 [monsecYouTube]: https://www.youtube.com/channel/UCYeUdj1uFiycji84i04jayw
