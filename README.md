@@ -66,7 +66,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  [![taSilver's GitHub Stats](https://github-readme-stats.tasilver.vercel.app/api?username=taSilver&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![taSilver's GitHub Stats](https://github-readme-stats-git-master.tasilver.vercel.app/api?username=taSilver&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
