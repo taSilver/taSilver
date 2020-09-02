@@ -56,11 +56,11 @@
 
 ---
 
-<details>
-    <summary>:zap: GitHub Activity </summary>
+### :zap: GitHub Activity
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-</details>
+
 
 
 <details>
