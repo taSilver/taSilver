@@ -51,6 +51,12 @@
 
 ---
 
+<details>
+    <summary>:zap: StackOverflow Activity </summary>
+    <!-- STACKOVERFLOW:START -->
+    <!-- STACKOVERFLOW:END -->
+</details>
+
 
 <details>
   <summary>:zap: Github Stats</summary>
