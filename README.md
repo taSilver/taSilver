@@ -46,11 +46,11 @@
 
 ### 📺 Latest MonSec YouTube Videos
 <!-- YOUTUBE:START -->
+- [Python Exploitation - MonSec (7/08/2020) Sem 2 Week 6](https://www.youtube.com/watch?v=tBpcT47kDwg)
 - [bCTF Difficult Challenges - MonSec (31/08/2020) Sem 2 Week 5](https://www.youtube.com/watch?v=C7f4rNPw9z0)
 - [Binary Lightning Talk - MonSec bCTF Semester 2](https://www.youtube.com/watch?v=gxuo1y7Yajk)
 - [Crypto Lightning Talk - MonSec bCTF Semester 2](https://www.youtube.com/watch?v=XOP1lJIJMy4)
 - [Forensics Lightning Talk - MonSec bCTF Semester 2](https://www.youtube.com/watch?v=orgH_2cVb_U)
-- [Web Lightning Talk - MonSec bCTF Semester 2](https://www.youtube.com/watch?v=WiFHnOl67NA)
 <!-- YOUTUBE:END -->
 
 
