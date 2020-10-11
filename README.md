@@ -46,11 +46,11 @@
 
 ### 📺 Latest MonSec YouTube Videos
 <!-- YOUTUBE:START -->
+- [Active Directory Crash Course - MonSec (5/12/2020) Sem 2 Week 8](https://www.youtube.com/watch?v=D7UAiW6N9Os)
 - [DigitalWorld:Torment VulnHub - MonSec (14/09/2020) Sem 2 Week 7](https://www.youtube.com/watch?v=nroGfgzCVJk)
 - [Python Exploitation - MonSec (7/08/2020) Sem 2 Week 6](https://www.youtube.com/watch?v=tBpcT47kDwg)
 - [bCTF Difficult Challenges - MonSec (31/08/2020) Sem 2 Week 5](https://www.youtube.com/watch?v=C7f4rNPw9z0)
 - [Binary Lightning Talk - MonSec bCTF Semester 2](https://www.youtube.com/watch?v=gxuo1y7Yajk)
-- [Crypto Lightning Talk - MonSec bCTF Semester 2](https://www.youtube.com/watch?v=XOP1lJIJMy4)
 <!-- YOUTUBE:END -->
 
 
