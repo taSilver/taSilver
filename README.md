@@ -3,10 +3,10 @@
 
 ## I'm a Student, Tutor, and Aspiring Developer!
 
-- 🔭 I’m currently working on [Bachelor of Computer Science Advanced (Honors)][uni] at Monash University!
+- 🔭 I’m currently working on [Bachelor of Computer Science Advanced (Honors)][uni] at Monash University (internship period)!
 - 🌱 I’m currently learning Python, Java, testing frameworks, Haskell (a little bit of everything)...
-- 👯 I’m currently organising weekly workshops for [MonSec][monsec]
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 👯 I’ve organised weekly workshops for [MonSec][monsec]
+- 🥅 2021 Goals: Commit at least once a week to GitHub with personal projects!
 - ⚡ Fun fact: I love to go for runs and play DnD
 
 
