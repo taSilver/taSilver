@@ -1,12 +1,11 @@
 ### Hi there, I'm Tim - aka taSilver 👋
 
 
-## I'm a Student, Tutor, and Aspiring Developer!
+## I'm a Software Developer at Optiver
 
-- 🔭 I’m currently working on [Bachelor of Computer Science Advanced (Honors)][uni] at Monash University (internship period)!
 - 🌱 I’m currently learning Python, Java, testing frameworks, Haskell (a little bit of everything)...
 - 👯 I’ve organised weekly workshops for [MonSec][monsec]
-- 🥅 2021 Goals: Commit at least once a week to GitHub with personal projects!
+- 🥅 2022 Goals: Commit at least once a week to GitHub with personal projects!
 - ⚡ Fun fact: I love to go for runs and play DnD
 
 
@@ -70,8 +69,7 @@
 
 </details>
 
-[uni]: https://www.monash.edu/study/courses/find-a-course/2021/computer-science-advanced-c3001
-[email]: mailto:tim.silvester45@outlook.com
+[email]: mailto:tim@silvester.dev
 [monsec]: https://monsec.io
 [linkedin]: https://www.linkedin.com/in/tim-silvester/
 [monsecYouTube]: https://www.youtube.com/channel/UCYeUdj1uFiycji84i04jayw
